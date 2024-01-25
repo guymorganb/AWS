@@ -38,5 +38,6 @@ Hope you find these projects valuable whether you're learning about AWS or seeki
 
 ## Contact
 
-If youd like more information on these projects please contatc me @ guymorganb@gmail.com.
+If you have questions dont hesitate to reach me at guymorganb@gmail.com
+give me a follow on instagram if your in the neighborhood! @guyycodes Id love to keep making more useful things that help people. 
 
