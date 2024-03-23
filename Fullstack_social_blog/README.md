@@ -13,7 +13,7 @@
 
 ### 🏠 [Homepage] - youve arrived
 
-### ✨ [Demo] This project is quite expensive to leave running idea, please email me if youd like a demo. guymorganb@gmail.com
+### ✨ [Demo] This project is quite expensive to leave running, please email me if youd like a demo. guymorganb@gmail.com
 
 ## Install
 
