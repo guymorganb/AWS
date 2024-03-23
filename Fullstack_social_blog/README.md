@@ -11,9 +11,9 @@
 
 > Express, Node, React Stack built and put on AWS with, Nginx reverse proxy on an EC2 instance hooked up to AWS S3 and DynamoDB, Using the AWS JavaScript SDK. If you intend on using this, note that youll need to configure the Nginx server how youd like it. This code is simply the application, setup to connect to AWS services, and be run on an EC2 instance in tandem with Nginx. Note, youll also want to consider adjusting your front end routing if your setting Nginx up as a reverse proxy.
 
-### 🏠 [Homepage](http://<your nginx ip>)
+### 🏠 [Homepage] - youve arrived
 
-### ✨ [Demo](http://<let me get back to you soon>)
+### ✨ [Demo] This project is quite expensive to leave running idea, please email me if youd like a demo. guymorganb@gmail.com
 
 ## Install
 
